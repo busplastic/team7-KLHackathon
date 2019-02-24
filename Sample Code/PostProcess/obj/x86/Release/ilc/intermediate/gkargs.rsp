@@ -1,0 +1,10 @@
+﻿"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\in\Microsoft.Graphics.Canvas.winmd"
+"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\in\PostProcess.exe"
+"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\in\WriteableBitmapEx.Uwp.dll"
+"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\in\zxing.dll"
+/Lib:"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.1\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"fd722bf5-2877-4b43-b66e-b755d047da8c","Id":"a59195f5-0022-4534-b4dc-d8fcf1d0cb2c","ProcessStartTime":636864876731857395}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.1\tools\LibraryXML"
+/RunOnlyPreDR

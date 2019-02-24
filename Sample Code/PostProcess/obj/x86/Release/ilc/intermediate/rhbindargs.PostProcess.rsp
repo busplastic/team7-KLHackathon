@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.1\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\intermediate\MDIL\PostProcess.mdilexe"
+"/i:C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\intermediate\Native\PostProcess.exe"
+"/pdbAltPath:C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\bin\x86\Release\ilc"
+"/res:C:\Users\twong\Documents\GitHub\KLHACK2019\KL_Hackthon-master\Sample Code\PostProcess\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.1\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
